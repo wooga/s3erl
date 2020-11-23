@@ -1,5 +1,7 @@
 # S3
 
+FORKED from [astro/s3erl](https://github.com/astro/s3erl)
+
 This is an Erlang client for Amazons Simple Storage Service, aka
 S3. It is based on the much forked s3erl library, originally written
 by Andrew Birkett <andy@nobugs.org>.
